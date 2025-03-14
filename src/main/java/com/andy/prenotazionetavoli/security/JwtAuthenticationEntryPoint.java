@@ -1,4 +1,4 @@
-package com.andy.security;
+package com.andy.prenotazionetavoli.security;
 
 public class JwtAuthenticationEntryPoint {
 }
